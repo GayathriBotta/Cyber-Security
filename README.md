@@ -178,3 +178,9 @@ CyberGuard AI demonstrates how Python and web application technologies can be us
 ## ⚠️ Disclaimer
 
 CyberGuard AI is an educational project intended to support cybersecurity awareness. Its output depends on the information provided and the logic implemented in the application. It does not guarantee the detection or prevention of all cyber threats and is not a replacement for professional security audits, incident response, or specialised cybersecurity tools.
+## 🚀 Live Demo
+
+**Try CyberGuard AI here:**
+
+🔗 [Launch CyberGuard AI](https://cyber-security-pieqvibahmu3q6rguuwdio.streamlit.app/)
+
